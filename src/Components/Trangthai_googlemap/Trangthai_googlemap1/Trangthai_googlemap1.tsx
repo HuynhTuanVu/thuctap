@@ -21,7 +21,7 @@ export default function trangthai_GGmap1() {
                 <div className="informationatm1">
                     Thông tin ATM
                 </div>
-                <div className="bang_MAP1">
+                <div className="Table_MAP1">
                     <label className="ID_ttATM">ID: </label><br />
                     <label className="ID_ttATM_1">8628822201212 to SIM number: Unknown </label><br />
                     <br />
@@ -51,33 +51,33 @@ export default function trangthai_GGmap1() {
                 <div className="bang_MAP2">
                     <br />
                     <img src={v1} alt="" className="i1" />
-                    <div className="so1">Nhiệt({'>'}36.5):</div>
-                    <label className="so1_1">Cao</label>
+                    <div className="s1">Nhiệt({'>'}36.5):</div>
+                    <label className="s1_1">Cao</label>
                     <br />
                     <br />
                     <img src={v2} alt="" className="i2" />
-                    <div className="so2">Rung({'>'}1700):</div>
-                    <label className="so2_1">Bình thường</label>
+                    <div className="s2">Rung({'>'}1700):</div>
+                    <label className="s2_1">Bình thường</label>
                     <br />
                     <img src={v3} alt="" className="i3" />
-                    <div className="so3">Cửa trên máy ATM:</div>
-                    <label className="so3_1">Bật</label>
+                    <div className="s3">Cửa trên máy ATM:</div>
+                    <label className="s3_1">Bật</label>
                     <br />
                     <img src={v4} alt="" className="i4" />
-                    <div className="so4">Cửa ngoài máy ATM:</div>
-                    <label className="so4_1">Bật</label>
+                    <div className="s4">Cửa ngoài máy ATM:</div>
+                    <label className="s4_1">Bật</label>
                     <br />
                     <img src={v5} alt="" className="i5" />
-                    <div className="so5">Cửa két máy ATM:</div>
-                    <label className="so5_1">Bật</label>
+                    <div className="s5">Cửa két máy ATM:</div>
+                    <label className="s5_1">Bật</label>
                     <br />
                     <img src={v6} alt="" className="i6" />
-                    <div className="so6">Dự phòng:</div>
-                    <label className="so6_1">Tắt</label>
+                    <div className="s6">Dự phòng:</div>
+                    <label className="s6_1">Tắt</label>
                     <br />
                     <img src={v7} alt="" className="i7" />
-                    <div className="so7">Rung 2({'>'}2000):</div>
-                    <label className="so7_1">Bình thường</label>
+                    <div className="s7">Rung 2({'>'}2000):</div>
+                    <label className="s7_1">Bình thường</label>
                     <br />
                 </div>
                 <div className="tencanhbao">
@@ -85,28 +85,28 @@ export default function trangthai_GGmap1() {
                 </div>
                 <div className="bang_MAp4">
                     <img src={v8} alt="" className="i8" />
-                    <div className="so8">Dịch chuyển:</div>
-                    <label className="so8_1">Tắt</label>
+                    <div className="s8">Dịch chuyển:</div>
+                    <label className="s8_1">Tắt</label>
                     <br />
                     <img src={v9} alt="" className="i9" />
-                    <div className="so9">Rò điện:</div>
-                    <label className="so9_1">Tắt</label>
+                    <div className="s9">Rò điện:</div>
+                    <label className="s9_1">Tắt</label>
                     <br />
                     <img src={v10} alt="" className="i10" />
-                    <div className="so10">Khói:</div>
-                    <label className="so10_1">Bật</label>
+                    <div className="s10">Khói:</div>
+                    <label className="s10_1">Bật</label>
                     <br />
                     <img src={v11} alt="" className="i11" />
-                    <div className="so11">Pin dự phòng:</div>
-                    <label className="so11_1">Bật</label>
+                    <div className="s11">Pin dự phòng:</div>
+                    <label className="s11_1">Bật</label>
                     <br />
                     <img src={v12} alt="" className="i12" />
-                    <div className="so12">Điện áp nguồn AC:</div>
-                    <label className="so12_1">90 – 265 ± 5% VAC/50/60hz</label>
+                    <div className="s12">Điện áp nguồn AC:</div>
+                    <label className="s12_1">90 – 265 ± 5% VAC/50/60hz</label>
                     <br />
                     <img src={v13} alt="" className="i13" />
-                    <div className="so13">Điện áp nguồn AC:</div>
-                    <label className="so13_1">Còi hụ</label>
+                    <div className="s13">Điện áp nguồn AC:</div>
+                    <label className="s13_1">Còi hụ</label>
                     <br />
                 </div>
             </div>

@@ -1,0 +1,96 @@
+.Table_GSM {
+    position: absolute;
+    width: 1500px;
+    height: 908px;
+    left: 340px;
+    top: 250px;
+    /* White */
+    background: #FFFF;
+    border-radius: 16px;
+}
+
+.frames6 {
+    width: 1460px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.line7 {
+    margin-left: 2px;
+    position: absolute;
+}
+
+.V8 {
+    margin-left: 4px;
+}
+
+.v10 {
+    position: absolute;
+    margin-left: 24px;
+}
+
+thead[class*="ant-table-thead"] th {
+    background-color: #EAF5FA !important;
+    padding: 10px 10px 10px 10px;
+    color: #1085C5;
+    border: none;
+}
+
+.v1 {
+    position: absolute;
+}
+
+.v2 {
+    position: absolute;
+    margin-left: 30px;
+}
+
+.v3 {
+    position: absolute;
+    margin-left: 60px;
+}
+
+.v4 {
+    position: absolute;
+    margin-left: 90px;
+}
+
+.v8 {
+    position: absolute;
+    margin-left: 0px;
+}
+
+.v9 {
+    position: absolute;
+    margin-left: 30px;
+}
+
+.blu0 {
+    color: #347AFF;
+}
+
+.re0 {
+    color: #FF5B5B;
+}
+
+.thongtinsodong_GSM {
+    position: absolute;
+    top: 850px;
+    left: 22px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #114A69;
+    opacity: 0.7;
+    display: flex;
+}
+
+.sodonggsm {
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-left: 5px
+}

@@ -25,7 +25,11 @@ import DBRouterUpdate from './Components/DBrouter/DBRouterUpdate/DBRouterUpdate'
 import DBRouterQLND from './Components/DBrouter/DBRouterQLND/DBRouterQLND';
 import DBRouterQLND_Add from './Components/DBrouter/DBRouterQLND_Add/DBRouterQLND_Add';
 import DBRouterQLND_Update from './Components/DBrouter/DBRouterQLND_Update/DBRouterQLND_Update';
-
+import DBRouter_skk from './Components/DBrouter/DBRouter_skk/DBRouter_skk';
+import DBRouter_themsdt from './Components/DBrouter/DBRouter_themsdt/DBRouter_themsdt';
+import DBRouterQLTB_GSM from './Components/DBrouter/DBRouterQLTB_GSM/DBRouterQLTB_GSM';
+import DBRouterCDTB from './Components/DBrouter/DBRouterCDTB/DBRouterCDTB';
+import DBRouterQlbc from './Components/DBrouter/DBRouterQlbc/DBRouterQlbc';
 
 
 function App() {
@@ -55,6 +59,11 @@ function App() {
           <Route path="/QLND" element={<DBRouterQLND />} />
           <Route path="/QLNDU" element={<DBRouterQLND_Update />} />
           <Route path="/qlndadd" element={<DBRouterQLND_Add />} />
+          <Route path="/themsokhancap" element={<DBRouter_skk />} />
+          <Route path="/themsdt" element={<DBRouter_themsdt />} />
+          <Route path="/QLTBGSM" element={<DBRouterQLTB_GSM />} />
+          <Route path="/caidatdropdwon" element={<DBRouterCDTB />} />
+          <Route path="/qlcb" element={<DBRouterQlbc/>} />
          
 
         </Routes>

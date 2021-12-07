@@ -19,7 +19,7 @@
     opacity: 0.8;
 }
 
-.bang_MAP1 {
+.Table_MAP1 {
     /* Frame 2 */
     /* Auto Layout */
     display: flex;
@@ -389,7 +389,7 @@
     border-radius: 8px;
 }
 
-.so1 {
+.s1 {
     position: absolute;
     margin-left: 15px;
     margin-top: -5px;
@@ -407,7 +407,7 @@
     opacity: 0.8;
 }
 
-.so1_1 {
+.s1_1 {
     position: absolute;
     width: 27px;
     height: 20px;
@@ -440,7 +440,7 @@
     border-radius: 8px;
 }
 
-.so2 {
+.s2 {
     position: absolute;
     margin-left: 15px;
     margin-top: 30px;
@@ -458,7 +458,7 @@
     opacity: 0.8;
 }
 
-.so2_1 {
+.s2_1 {
     position: absolute;
     margin-top: 30px;
     margin-left: 325px;
@@ -490,7 +490,7 @@
     border-radius: 8px;
 }
 
-.so3 {
+.s3 {
     position: absolute;
     width: 160px;
     height: 20px;
@@ -511,7 +511,7 @@
     opacity: 0.8;
 }
 
-.so3_1 {
+.s3_1 {
     position: absolute;
     width: 24px;
     height: 20px;
@@ -545,7 +545,7 @@
     border-radius: 8px;
 }
 
-.so4 {
+.s4 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -566,7 +566,7 @@
     opacity: 0.8;
 }
 
-.so4_1 {
+.s4_1 {
     position: absolute;
     width: 24px;
     height: 20px;
@@ -600,7 +600,7 @@
     border-radius: 8px;
 }
 
-.so5 {
+.s5 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -621,7 +621,7 @@
     opacity: 0.8;
 }
 
-.so5_1 {
+.s5_1 {
     position: absolute;
     width: 24px;
     height: 20px;
@@ -655,7 +655,7 @@
     border-radius: 8px;
 }
 
-.so6 {
+.s6 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -676,7 +676,7 @@
     opacity: 0.8;
 }
 
-.so6_1 {
+.s6_1 {
     position: static;
     width: 22px;
     height: 20px;
@@ -705,7 +705,7 @@
     border-radius: 8px;
 }
 
-.so7 {
+.s7 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -726,7 +726,7 @@
     opacity: 0.8;
 }
 
-.so7_1 {
+.s7_1 {
     /* Bình thường */
     position: static;
     width: 100px;
@@ -799,7 +799,7 @@
     border-radius: 8px;
 }
 
-.so8 {
+.s8 {
     position: absolute;
     margin-left: 15px;
     margin-top: -5px;
@@ -817,7 +817,7 @@
     opacity: 0.8;
 }
 
-.so8_1 {
+.s8_1 {
     position: absolute;
     width: 27px;
     height: 20px;
@@ -850,7 +850,7 @@
     border-radius: 8px;
 }
 
-.so9 {
+.s9 {
     position: absolute;
     margin-left: 15px;
     margin-top: 30px;
@@ -868,7 +868,7 @@
     opacity: 0.8;
 }
 
-.so9_1 {
+.s9_1 {
     position: absolute;
     width: 27px;
     height: 20px;
@@ -901,7 +901,7 @@
     border-radius: 8px;
 }
 
-.so10 {
+.s10 {
     position: absolute;
     width: 160px;
     height: 20px;
@@ -922,7 +922,7 @@
     opacity: 0.8;
 }
 
-.so10_1 {
+.s10_1 {
     position: absolute;
     width: 24px;
     height: 20px;
@@ -956,7 +956,7 @@
     border-radius: 8px;
 }
 
-.so11 {
+.s11 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -977,7 +977,7 @@
     opacity: 0.8;
 }
 
-.so11_1 {
+.s11_1 {
     position: absolute;
     width: 24px;
     height: 20px;
@@ -1011,7 +1011,7 @@
     border-radius: 8px;
 }
 
-.so12 {
+.s12 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -1032,7 +1032,7 @@
     opacity: 0.8;
 }
 
-.so12_1 {
+.s12_1 {
     position: absolute;
     width: 200px;
     height: 20px;
@@ -1066,7 +1066,7 @@
     border-radius: 8px;
 }
 
-.so13 {
+.s13 {
     position: absolute;
     width: 139px;
     height: 20px;
@@ -1087,7 +1087,7 @@
     opacity: 0.8;
 }
 
-.so13_1 {
+.s13_1 {
     position: static;
     width: 100px;
     height: 20px;

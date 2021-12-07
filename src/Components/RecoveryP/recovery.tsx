@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from '../../images/Login/Vector.png';
-import pic1 from '../../images/Login/Frame 923.png';
-import pic2 from '../../images/Login/Frame 924.png';
-import pic3 from '../../images/Login/Frame 931.png';
+import p1 from '../../images/Login/Frame 923.png';
+import p2 from '../../images/Login/Frame 924.png';
+import p3 from '../../images/Login/Frame 931.png';
 import cayATM from '../../images/Login/Group.png';
 import bongmo from '../../images/Login/bong.png';
 import { Link } from 'react-router-dom';
@@ -19,9 +19,9 @@ export default function Recovery() {
             <div className="Content">
                 <div className="Contentleft">
                     <img src={cayATM} alt="" className="caiatm" />
-                    <img src={pic1} alt="" className="pic1" />
-                    <img src={pic2} alt="" className="pic2" />
-                    <img src={pic3} alt="" className="pic3" />
+                    <img src={p1} alt="" className="p1" />
+                    <img src={p2} alt="" className="p2" />
+                    <img src={p3} alt="" className="p3" />
                     <img src={bongmo} alt="" className="bongatm" />
                     <p className="bgnho"></p>
                 </div>

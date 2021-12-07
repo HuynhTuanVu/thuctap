@@ -12,7 +12,7 @@ import './password.css';
 
 export default function password() {
     return (
-        <div className="password">
+        <div className="password1">
             <div className="hinhdo1">
                 <img src={logo} alt="" className="hinhdo" />
             </div>
