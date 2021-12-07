@@ -9,7 +9,7 @@ export default function DashBoard() {
         <div className="DashBoard">
             <DBHeader />
             <DBContent />
-            <Sidebar />
+            
             
             
         </div>
